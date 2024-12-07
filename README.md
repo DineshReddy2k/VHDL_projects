@@ -1,5 +1,6 @@
 # VHDL
 
 ## Counter
-- This is an up-counter with variable range. once the start signal gets triggered, it starts counting from zero to its maximum range.
+- This is an up-counter with variable range. once the start signal gets triggered, it starts counting from zero to its maximum range. In the given below image, its a 3-bit counter ranging from 0 to 7.
+  
 ![seq_det](https://github.com/DineshReddy2k/VHDL_projects/blob/main/counter.png)
