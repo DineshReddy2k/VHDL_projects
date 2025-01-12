@@ -18,3 +18,8 @@
 - When the write pointer reaches the end, it wraps around to the beginning. Ensures efficient use of space by reusing memory.
   
 ![seq_det](https://github.com/DineshReddy2k/VHDL_projects/blob/main/ring_buffer.png)
+
+## Traffic Light controller
+- This project is a basic traffic light controller which holds different signals based on the input timer given for each traffic signal.
+  
+![seq_det](https://github.com/DineshReddy2k/VHDL_projects/blob/main/traffic_light_ctrl.png)
